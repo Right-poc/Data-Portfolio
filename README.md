@@ -24,7 +24,8 @@ This dashboard provides a comprehensive financial overview for a SaaS business, 
 - 📊 Interactive slicers and filters for drilldowns
 
 **📸 Screenshot Preview:**  
-![SaaS Dashboard](./screenshots/saas_dashboard.png)
+![SaaS Dashboard](./screenshots/SaaS1.png)
+(./screenshots/SaaS2.png)
 
 **🔗 [View Power BI File](./dashboards/SaaS_Financial_Report.pbix**
 ---
@@ -45,7 +46,7 @@ This dashboard explores Amazon Prime Video’s content library, analyzing over 9
 - 🧩 Interactive filters on type, region, year, and genre
 
 **📸 Screenshot Preview:**  
-![Prime Video Dashboard](./screenshots/prime_video_dashboard.png)
+![Prime Video Dashboard](./screenshots/prime_vid.png)
 
 **🔗 [View Power BI File](./dashboards/Prime_Video_Analytics.pbix)**
 
