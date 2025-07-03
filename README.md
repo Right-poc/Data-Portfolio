@@ -3,8 +3,7 @@
 
 Welcome to my Business Intelligence portfolio! This repository showcases two interactive dashboards built using Power BI: one focused on **SaaS Financial Reporting** and another analyzing **Prime Video Content**. These dashboards demonstrate skills in data modeling, DAX, dynamic filtering, financial analysis, and UX-focused visualization.
 
----
-(These data used are publicly available )
+
 ## 📁 Projects Overview 
 
 ### 1. 💼 SaaS Financial Report Dashboard (2022–2024)
@@ -28,7 +27,7 @@ This dashboard provides a comprehensive financial overview for a SaaS business, 
 ![SaaS Dashboard](./screenshots/SaaS2.png)
 
 **🔗 [View Power BI File](./dashboards/SaaS_Financial_Report.pbix)**
----
+
 
 ### 2. 🎬 Prime Video Content Analytics Dashboard
 
