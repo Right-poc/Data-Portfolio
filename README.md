@@ -4,8 +4,8 @@
 Welcome to my Business Intelligence portfolio! This repository showcases two interactive dashboards built using Power BI: one focused on **SaaS Financial Reporting** and another analyzing **Prime Video Content**. These dashboards demonstrate skills in data modeling, DAX, dynamic filtering, financial analysis, and UX-focused visualization.
 
 ---
-
-## 📁 Projects Overview ( These data publicly available)
+(These data used are publicly available )
+## 📁 Projects Overview 
 
 ### 1. 💼 SaaS Financial Report Dashboard (2022–2024)
 
@@ -25,9 +25,9 @@ This dashboard provides a comprehensive financial overview for a SaaS business, 
 
 **📸 Screenshot Preview:**  
 ![SaaS Dashboard](./screenshots/SaaS1.png)
-(./screenshots/SaaS2.png)
+![SaaS Dashboard](./screenshots/SaaS2.png)
 
-**🔗 [View Power BI File](./dashboards/SaaS_Financial_Report.pbix**
+**🔗 [View Power BI File](./dashboards/SaaS_Financial_Report.pbix)**
 ---
 
 ### 2. 🎬 Prime Video Content Analytics Dashboard
@@ -46,11 +46,11 @@ This dashboard explores Amazon Prime Video’s content library, analyzing over 9
 - 🧩 Interactive filters on type, region, year, and genre
 
 **📸 Screenshot Preview:**  
-![Prime Video Dashboard](./screenshots/prime_vid.png)
+![Prime Video Dashboard](./screenshots/Prime_Vid.png)
 
 **🔗 [View Power BI File](./dashboards/Prime_Video_Analytics.pbix)**
 
----
+
 
 ## 🔧 Tools & Techniques Used
 
@@ -62,6 +62,11 @@ This dashboard explores Amazon Prime Video’s content library, analyzing over 9
 - **Variance & Trend Analysis**  
 - **Map Visuals and Hierarchical Filtering**
 
----
+  
+## ⚠️ Disclaimer
 
+-**This dashboard was developed using publicly available data sourced from the internet.**
+-**No proprietary or internal data from any company was used.**
+-**All insights, visualizations, and interpretations are purely for demonstration and do not reflect real business performance.** 
+_**All names, products, and metrics are fictional or anonymized.**
 ## 📁 Repository Structure
